@@ -17,6 +17,6 @@
   ##
  
 <div> 
-  <a href = "mailto:pedropereiraflorent@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedropereiraflorent@hotmail.com"><img src="https://img.shields.io/badge/-EMAIL-%23333?style=for-the-badge&logo=letter&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/pedro-augusto-pereira-florentino-5435111ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
