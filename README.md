@@ -16,7 +16,6 @@
   <img align="center" alt="Pedro749-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Pedro749-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Pedro749-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   
   <img align="right" alt="Pedro749-yoda" height="160em" width="160em" src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif">
 </div>
 
