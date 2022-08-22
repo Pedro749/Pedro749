@@ -4,7 +4,7 @@
   <img height="180" width="" src="https://github-readme-stats.vercel.app/api?username=Pedro749&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro749&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block;"><br>
+<div style="display: flex;"><br>
   <img align="center" alt="Pedro749-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Pedro749-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Pedro749-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
